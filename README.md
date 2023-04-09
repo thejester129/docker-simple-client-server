@@ -1,4 +1,4 @@
-# docker-simple-client-server
+# docker-simple-network-examples
 
 Occam's razor of basic docker networking
 
