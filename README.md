@@ -8,6 +8,8 @@ Occam's razor of basic docker networking
 
 client and server in separate dockers
 
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/51316224/230797084-4c997380-a1ef-40e5-9d4c-c200a79e2097.png">
+
 the magic that lets them communicate is a docker network which joins the two containers together
 
 `docker network create client-server`
